@@ -21,7 +21,7 @@ dt {
     width: 100%;
     height: 500px;
     
-    content: url('../img/nvidia-dli-banner.png');
+    content: url('https://uwrc.github.io/nvidia-dli/img/nvidia-dli-banner.png');
     opacity: 0.4;
 }
 
